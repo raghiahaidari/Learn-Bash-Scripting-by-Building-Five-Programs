@@ -74,3 +74,4 @@ man echo
 touch countdown.sh
 chmod +x countdown.sh
 nano countdown.sh
+./countdown.sh
