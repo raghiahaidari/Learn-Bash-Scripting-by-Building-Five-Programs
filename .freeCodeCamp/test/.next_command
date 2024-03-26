@@ -67,3 +67,4 @@ chmod +x questionnaire.sh
 ./questionnaire.sh
 echo --help
 man echo
+./questionnaire.sh
