@@ -180,3 +180,9 @@ chmod +x fortune.sh
 ./fortune.sh
 ARR=("a" "b" "c")
 echo ${ARR[1]}
+echo @*
+echo $@
+echo $ARR@
+echo $* ARR
+echo $@ fortune.sh
+echo ${ARR[@]}
