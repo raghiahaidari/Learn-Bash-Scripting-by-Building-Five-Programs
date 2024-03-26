@@ -120,3 +120,4 @@ help [[
 ./countdown.sh 1
 ./countdown.sh r
 help
+./countdown.sh 10
