@@ -83,3 +83,4 @@ help if
 ./countdown.sh arg1
 ./countdown.sh arg
 ./countdown.sh arg
+./countdown.sh 4
