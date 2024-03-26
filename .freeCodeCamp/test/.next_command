@@ -186,3 +186,7 @@ echo $ARR@
 echo $* ARR
 echo $@ fortune.sh
 echo ${ARR[@]}
+declare -p
+declare ARR
+declare -P ARR
+declare -p ARR
