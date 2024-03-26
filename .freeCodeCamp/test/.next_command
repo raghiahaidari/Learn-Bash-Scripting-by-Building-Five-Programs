@@ -112,3 +112,4 @@ help test
 help [[ expression ]]
 help test
 [[ -x countdown.sh ]]
+help [[
