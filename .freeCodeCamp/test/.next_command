@@ -314,3 +314,4 @@ __vsc_prompt_cmd_original
 [[ -n $VAR\?$ ]]
 [[ $VAR =~ \?$ ]]
 [[ test? =~ \?$ ]]
+./fortune.sh
