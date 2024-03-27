@@ -331,3 +331,9 @@ type then
 type bash
 type psql
 type ./five.sh
+git init
+git remote add origin https://github.com/raghiahaidari/Learn-Bash-Scripting-by-Building-Five-Programs.git
+git push -u origin main
+sudo git push -u origin main
+git init
+git remote -v
