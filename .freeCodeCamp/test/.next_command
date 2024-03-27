@@ -307,3 +307,9 @@ echo VAR
 echo $VAR
 [[ "hello world" == $VAR ]]
 [[ $VAR == "hello world" ]]
+[[ $VAR == \?$ ]]
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+[[ -n $VAR\?$ ]]
+[[ $VAR =~ \?$ ]]
