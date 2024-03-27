@@ -242,3 +242,4 @@ RESPONSES=("Yes" "No" "Maybe" "Outlook good" "Don't count on it" "Ask again late
 ./bingo.sh
 help
 help function
+./fortune.sh
